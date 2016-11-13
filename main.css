@@ -1,13 +1,18 @@
 h1{
   color: Black;
-  font-family:"Comic Sans Ms";
+  font-family:'Abril Fatface', cursive;
 }
+body {
+	font-family: 'Lato', sans-serif;
+	font-size:26;
+}
+ 
 p{ 
   color: Black;
   font-Size: 18;
-  font-weight: bold;
   padding-left: 10%;
   padding-right: 10%;
+  font-family: 'Lato', sans-serif;
 }
 #menu {
 	font-family: 'Righteous', cursive;
@@ -39,3 +44,8 @@ li a {
 li a:hover {
     border-bottom:solid #464655;
 }
+
+
+	
+}
+ 
